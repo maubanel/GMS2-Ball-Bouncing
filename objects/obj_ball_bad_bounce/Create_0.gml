@@ -11,3 +11,7 @@ randomize();
 direction = irandom(359);
 
 room_speed = 30;
+
+freeze_on_bounce = false;
+
+is_frozen = false;

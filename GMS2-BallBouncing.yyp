@@ -119,14 +119,6 @@
             }
         },
         {
-            "Key": "6ba87afc-58e6-4bc9-bf54-56a87500782f",
-            "Value": {
-                "id": "f9dd5c44-8e40-4369-82e1-80743577f6d1",
-                "resourcePath": "objects\/obj_ball_ang_vel\/obj_ball_ang_vel.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "701b39b0-a144-4c34-8a33-a4a582785f54",
             "Value": {
                 "id": "65722147-7979-4d38-97fb-0344e300517e",
@@ -138,7 +130,15 @@
             "Key": "7d6a820b-615f-437b-a120-355fc48b8d24",
             "Value": {
                 "id": "c3adcac6-669b-4f0a-a6e5-6a79bb4528a3",
-                "resourcePath": "objects\/obj_ball_bad_good_bounce\/obj_ball_bad_good_bounce.yy",
+                "resourcePath": "objects\/obj_ball_good_bounce\/obj_ball_good_bounce.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "800e3eac-0205-4a4a-b81d-0c8803080346",
+            "Value": {
+                "id": "5456e63e-cdfd-4a4d-a471-04379f808544",
+                "resourcePath": "objects\/obj_ball_angular_velocity\/obj_ball_angular_velocity.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "99d61b68-3082-4a57-9dee-d89351e18444",
+            "Value": {
+                "id": "6868fdea-7c79-4fc5-b3b0-287a32b98276",
+                "resourcePath": "rooms\/rm_ball_rolling\/rm_ball_rolling.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9a463b5c-47b7-4ed3-8372-98ce1d59cdd4",
             "Value": {
                 "id": "fe2b718f-620c-43ec-816f-34818ee18e52",
@@ -172,6 +180,14 @@
                 "id": "e478d7d1-a68f-4a22-bd86-d4f2773bb6fd",
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ae222b9d-7d3d-45f3-9a2c-3a517e55999a",
+            "Value": {
+                "id": "3cfd6dcb-e1fc-4b1f-b82a-0e6a53f82513",
+                "resourcePath": "scripts\/edge_of_level\/edge_of_level.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -239,6 +255,14 @@
             }
         },
         {
+            "Key": "e7313ed5-7feb-49ad-a308-12f4591fa1ca",
+            "Value": {
+                "id": "86a88941-3851-4c20-9296-76062973459e",
+                "resourcePath": "objects\/obj_ball_rolling\/obj_ball_rolling.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ee2ea6a8-e92f-4ddc-a86f-f289b754d5e0",
             "Value": {
                 "id": "33982b4b-4a47-4373-aa22-d3f2b0cbca8b",
@@ -256,7 +280,7 @@
         }
     ],
     "script_order": [
-        
+        "ae222b9d-7d3d-45f3-9a2c-3a517e55999a"
     ],
     "tutorial": ""
 }

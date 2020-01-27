@@ -1,28 +1,28 @@
 {
-    "id": "6ba87afc-58e6-4bc9-bf54-56a87500782f",
+    "id": "800e3eac-0205-4a4a-b81d-0c8803080346",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_ball_ang_vel",
+    "name": "obj_ball_angular_velocity",
     "eventList": [
         {
-            "id": "d67f998b-2a7f-408c-9546-0ec8c30fb1da",
+            "id": "a72b6ab8-2b65-4510-be7a-a78fd7befd02",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "6ba87afc-58e6-4bc9-bf54-56a87500782f"
+            "m_owner": "800e3eac-0205-4a4a-b81d-0c8803080346"
         },
         {
-            "id": "b7edf8a8-049b-41fe-aa44-0a9c7ea09f18",
+            "id": "c19291c3-5574-4d1f-a75c-60cb5a5982a9",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "6ba87afc-58e6-4bc9-bf54-56a87500782f"
+            "m_owner": "800e3eac-0205-4a4a-b81d-0c8803080346"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

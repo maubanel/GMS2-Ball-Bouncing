@@ -2,7 +2,7 @@
     "id": "7d6a820b-615f-437b-a120-355fc48b8d24",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_ball_bad_good_bounce",
+    "name": "obj_ball_good_bounce",
     "eventList": [
         {
             "id": "61b45d96-c522-4b34-a60d-eda502d4fb53",

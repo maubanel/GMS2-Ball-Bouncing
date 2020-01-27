@@ -4,16 +4,20 @@ radius = 32;
 
 border = 32;
 
+max_speed = 40;
+speed = max_speed;
 
-speed = 23;
 randomize();
 direction = irandom(359);
-
+//direction = 85;
 room_speed = 30;
 
-inertia = 3/5;
+freeze_on_bounce = false;
 
-bounce_fric_x = 1;
-bounce_fric_y = 1;
+is_frozen = false;
 
-angular_momentum = 0;
+am = 0;
+
+norm_hspeed = 0;
+
+norm_vspeed = 0;

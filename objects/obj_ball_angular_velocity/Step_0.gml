@@ -16,9 +16,9 @@ if (edge_of_level()) // check for edge of world collision
 	norm_hspeed = hspeed/speed;
 	norm_vspeed = vspeed/speed;
 	
-	// scale from 0 to 1 to 0 to .4
-	norm_hspeed = (norm_hspeed * .4);
-	norm_vspeed = (norm_vspeed * .4);	
+	// scale from 0 to 1 to 0 to .2
+	norm_hspeed = (norm_hspeed * .2);
+	norm_vspeed = (norm_vspeed * .2);	
 	
 	// Deflect ball at angle based on angular momentum
 	direction -= radtodeg(am * .5);
@@ -79,7 +79,6 @@ if (edge_of_level()) // check for edge of world collision
 	if (freeze_on_bounce) room_speed = 1;
 	is_frozen = true;
 	
-	show_debug_message("norm_hspeed: " + string(norm_hspeed) + " - speed: " + string(speed));
 }
 
 

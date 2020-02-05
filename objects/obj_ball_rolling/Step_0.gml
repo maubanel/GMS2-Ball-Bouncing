@@ -17,5 +17,3 @@ am = -(hspeed / radius);
 image_angle += (radtodeg(am));
 
 if (hspeed == 0 && alarm < 0) alarm[0] = 30;
-
-show_debug_message(hspeed);

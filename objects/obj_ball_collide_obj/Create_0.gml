@@ -9,7 +9,7 @@ speed = max_speed;
 
 randomize();
 direction = irandom(359);
-//direction = 85;
+//direction = 25;
 room_speed = 30;
 
 freeze_on_bounce = false;

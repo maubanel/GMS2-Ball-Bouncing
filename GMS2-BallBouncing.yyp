@@ -87,6 +87,22 @@
             }
         },
         {
+            "Key": "2043aeaa-d309-4b2f-a4ec-06f27fd0e581",
+            "Value": {
+                "id": "f3a98bb7-29a1-4b5f-a246-832cbd7009d0",
+                "resourcePath": "scripts\/position_vertical\/position_vertical.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "28fa2c5d-30fb-4559-b56d-667420140cd5",
+            "Value": {
+                "id": "47879c43-a965-4279-8a12-4786ee861549",
+                "resourcePath": "scripts\/position_horizontal\/position_horizontal.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2ef64b45-87b8-4894-8af2-cad475823637",
             "Value": {
                 "id": "0284d762-980b-4f45-91d8-4cdb81734542",
@@ -103,6 +119,14 @@
             }
         },
         {
+            "Key": "4283f46b-2a86-498b-960a-bda0394de641",
+            "Value": {
+                "id": "7ba20089-8507-45b5-aa03-5d79e737916e",
+                "resourcePath": "rooms\/rm_good_angular_collide_obj\/rm_good_angular_collide_obj.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "469069f9-c74a-4b1c-9f36-b9435dc4c24b",
             "Value": {
                 "id": "775cb953-1352-4f68-b223-c28a18f48444",
@@ -111,11 +135,35 @@
             }
         },
         {
+            "Key": "4bb84cb2-9d59-4d06-aa75-4894ba4253b1",
+            "Value": {
+                "id": "34493d31-660c-4212-8332-67912353887e",
+                "resourcePath": "objects\/obj_ball_collide_obj\/obj_ball_collide_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "56259b39-d81a-468d-921c-754a47133d3c",
             "Value": {
                 "id": "45ce335e-561c-427e-ad2b-5505b19758a8",
                 "resourcePath": "rooms\/rm_fbad_bounce_collision\/rm_fbad_bounce_collision.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "5d4c4575-ba62-4aa3-b0b9-3e26c4230a71",
+            "Value": {
+                "id": "a643320e-9498-45ae-bb2c-7835ebe6e8de",
+                "resourcePath": "objects\/obj_ground\/obj_ground.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6b56dffb-2a09-4d5e-810f-4246f6911213",
+            "Value": {
+                "id": "4a55ebdc-9db0-455b-b47d-29101ee3386d",
+                "resourcePath": "scripts\/closest_intersection_from_corner\/closest_intersection_from_corner.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -140,6 +188,14 @@
                 "id": "5456e63e-cdfd-4a4d-a471-04379f808544",
                 "resourcePath": "objects\/obj_ball_angular_velocity\/obj_ball_angular_velocity.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "93c91554-14d6-4f72-bc87-1acad1760f17",
+            "Value": {
+                "id": "51392ae0-d850-4a70-976b-69a3969a7cc0",
+                "resourcePath": "sprites\/spr_ground\/spr_ground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -203,6 +259,14 @@
             "Value": {
                 "id": "5d5247d4-457f-4605-8a82-2db11d7216de",
                 "resourcePath": "rooms\/rm_good_bounce_collision\/rm_good_bounce_collision.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "cc694ff6-4549-4c84-b193-66925451980f",
+            "Value": {
+                "id": "85a96571-bb92-4732-be8c-f3142387d3fc",
+                "resourcePath": "rooms\/room_test\/room_test.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -271,6 +335,14 @@
             }
         },
         {
+            "Key": "f3339fd8-4f4d-424a-83dc-0a2eac2595ef",
+            "Value": {
+                "id": "eaef324d-f028-4dda-b0d3-a5cb1a40a099",
+                "resourcePath": "objects\/obj_ball_rotate\/obj_ball_rotate.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "01e17e41-1957-41c4-abc6-c6f3bb9579f2",
@@ -280,7 +352,10 @@
         }
     ],
     "script_order": [
-        "ae222b9d-7d3d-45f3-9a2c-3a517e55999a"
+        "ae222b9d-7d3d-45f3-9a2c-3a517e55999a",
+        "2043aeaa-d309-4b2f-a4ec-06f27fd0e581",
+        "28fa2c5d-30fb-4559-b56d-667420140cd5",
+        "6b56dffb-2a09-4d5e-810f-4246f6911213"
     ],
     "tutorial": ""
 }

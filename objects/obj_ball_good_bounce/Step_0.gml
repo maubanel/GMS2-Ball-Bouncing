@@ -2,7 +2,7 @@
 // You can write your code in this editor
 if (is_frozen)
 {
-	room_speed = 30;
+	room_speed = 269;
 	is_frozen = false;
 }
 
